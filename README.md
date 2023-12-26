@@ -1,7 +1,7 @@
 # SlotMachineProject
 I am designing a slot machine using javascript
 Disclaimer: Say no to Gambling. This is just a fun project to learn javascript.
-
+Detailed description of the project: https://sanaddhital.notion.site/Slot-Machine-project-using-javascript-060b301f88044fe08003c00b8a95542b?pvs=4
 
 ## Rules of our slot Machine:
 
